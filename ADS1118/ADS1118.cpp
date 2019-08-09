@@ -1,5 +1,5 @@
 /*
-    ADS1118.cpp - Library developed for exploring all functionalities of the ADS1118
+    ADC.cpp - Library developed for exploring all functionalities of the ADS1118
     Created by Angelo G. Menezes, January 13, 2018.
     Released into the public domain
 */
